@@ -1,0 +1,6 @@
+*.sdf
+*.suo
+ipch
+bin
+temp
+*.opensdf
